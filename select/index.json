@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "彗星 (Nor ver.)",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-01-07T13:04:55.985039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/01_彗星_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "趙翊帆",
+      "has_synced": true,
+      "path": "select/02_彗星_趙翊帆.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/03_彗星_sumika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "白鲨JAWS",
+      "has_synced": false,
+      "path": "select/04_彗星_白鲨JAWS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "10-FEET",
+      "has_synced": true,
+      "path": "select/05_彗星_10-FEET.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彗星",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_彗星_星街すいせい.txt"
+    }
+  ]
+}
