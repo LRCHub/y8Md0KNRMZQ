@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "彗星 (Nor ver.)",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-01-07T13:04:55.985039Z",
+  "createdAt": "2026-04-01T12:25:49.136105Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,38 @@
       "artist": "10-FEET",
       "has_synced": true,
       "path": "select/05_彗星_10-FEET.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "Hoshimachi Suisei, tuki., tuki., Kousuke Noma, KOHD",
+      "has_synced": true,
+      "path": "select/06_彗星_Hoshimachi_Suisei,_tuki.,_tuki.,_Kousuke_Noma,_KOHD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/07_彗星_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "彗星(Nor ver.)",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/08_彗星(Nor_ver.)_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "彗星 - Suisei",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/09_彗星_-_Suisei_Hoshimachi_Suisei.lrc"
     },
     {
       "id": "petitlyrics_1",
